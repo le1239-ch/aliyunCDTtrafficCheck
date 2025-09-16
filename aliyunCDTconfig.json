@@ -1,0 +1,6 @@
+{
+    "access_key_id":"****************",
+    "access_key_secret":"******************",
+    "max_traffic_gb":"20",
+    "feishu_webhook_url":"https://open.feishu.cn/open-apis/bot/v2/hook/****************"
+}
